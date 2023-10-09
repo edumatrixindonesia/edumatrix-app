@@ -214,6 +214,65 @@ const landingPage = () => {
             Namun, mengapa harus memilih metode belajar les privat daripada
             metode belajar yang lain?
           </p>
+
+          <div className="lima-metode">
+            <p className="rincian-metode">
+              <strong>Penyesuaian Soal Sesuai dengan Kemampuan Siswa</strong>
+              <br />
+              Salah satu kelebihan dari les privat adalah guru dapat mengetahui
+              kebutuhan belajar Siswa dengan cara mengukur kemampuan Siswa.
+              Soal-soal yang diberikan oleh Siswa kemudian dapat disesuaikan
+              dengan level pemahaman Siswa. Tentor akan membimbing sampai Siswa
+              mampu mengerjakan soal dengan kesulitan tinggi. Hal ini berbeda
+              dengan belajar berkelompok. Dalam belajar berkelompok, soal yang
+              dikerjakan memiliki tingkat kesulitan yang sudah ditentukan,
+              sehingga ketika Siswa merasa soal tersebut terlalu sulit atau
+              mudah, tidak ada opsi untuk menyesuaikan kesulitan soal tersebut.
+            </p>
+            <p className="rincian-metode">
+              <strong>Pemahaman Mendalam terkait Materi Tertentu</strong>
+              <br />
+              Seringkali ketika belajar mandiri, Siswa menemukan kendala berupa
+              kurang paham terkait materi tertentu. Dengan adanya tentor privat,
+              Siswa dapat menanyakan materi tersebut kepada tentor sampai paham.
+              Selanjutnya, Siswa dapat fokus untuk belajar materi tersebut di
+              sesi ke depannya.
+            </p>
+            <p className="rincian-metode">
+              <strong>
+                Memastikan Siswa Tidak Tertinggal Materi di Sekolah
+              </strong>
+              <br />
+              Dalam kelas banyak, persaingan akademis antara satu sama lain
+              merupakan hal yang umum. Ketika ada materi dari guru yang kurang
+              begitu dimengerti, ada kemungkinan beberapa Siswa malu menanyakan
+              hal terkait. Hal ini dikarenakan Siswa memiliki ketakutan
+              dipandang remeh oleh teman sebayanya, atau bahkan oleh gurunya
+              sendiri. Disinilah guru privat memiliki peran yang penting untuk
+              menjawab segala pertanyaan dari sang murid agar Siswa tidak
+              tertinggal oleh materi sekolah.
+            </p>
+            <p className="rincian-metode">
+              <strong>Terbentuknya Ikatan Antara Guru dan Murid</strong>
+              <br />
+              Selain memastikan materi tersampaikan dengan baik oleh Siswa,
+              penting juga untuk memastikan kecocokan belajar antar Siswa
+              terhadap guru. Ketika Siswa cocok dengan pembelajaran guru
+              tersebut, Siswa akan lebih menikmati proses pembelajaran
+              sehari-harinya. Dengan pembelajaran privat, hubungan antara guru
+              dan Siswa akan terbangun waktu demi waktu dan membentuk suatu
+              ikatan yang kuat antara guru dan siswa dalam belajar.
+            </p>
+            <p className="rincian-metode">
+              <strong>Jadwal Fleksibel</strong>
+              <br />
+              Ketika belajar dengan jadwal tertentu, Siswa dapat dihadapkan oleh
+              kendala tak terduga, berupa acara mendadak, sakit, dan lain lain.
+              Dengan les privat, jadwal dapat disesuaikan dan tidak perlu
+              khawatir akan ketinggalan materi. Tentor privat akan mengikuti
+              penjadwalan Siswa untuk reschedule selanjutnya.
+            </p>
+          </div>
         </div>
       </div>
     </React.Fragment>

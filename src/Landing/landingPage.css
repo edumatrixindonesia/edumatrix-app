@@ -129,3 +129,11 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+.lima-metode {
+    margin-top: 50px;
+}
+.rincian-metode {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+}
